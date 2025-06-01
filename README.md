@@ -6,4 +6,3 @@ A smart information assistant web application that allows users to ask questions
 - 📚 **Wikipedia Integration**: Retrieves summarized responses from Wikipedia.
 - 💻 **Web Interface**: Simple, clean, and interactive frontend using HTML/CSS/JavaScript.
 
-"Screenshots\Screenshot 2025-06-01 191448.png"
