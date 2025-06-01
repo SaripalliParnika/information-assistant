@@ -5,3 +5,7 @@ A smart information assistant web application that allows users to ask questions
 - 🧾 **Text Mode**: Type your questions and receive answers instantly.
 - 📚 **Wikipedia Integration**: Retrieves summarized responses from Wikipedia.
 - 💻 **Web Interface**: Simple, clean, and interactive frontend using HTML/CSS/JavaScript.
+
+## 📸 Screenshot
+
+![Homepage]{"C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2025-06-01 191448.png")
