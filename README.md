@@ -8,4 +8,5 @@ A smart information assistant web application that allows users to ask questions
 
 ## 📸 Screenshot
 
-![Homepage](Screenshots\Screenshot 2025-06-01 191448.png)
+![Uploading Screenshot 2025-06-01 191448.png…]()
+
