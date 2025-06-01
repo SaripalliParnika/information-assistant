@@ -1,4 +1,4 @@
-# Information Assistant 🎙️💬
+# Information Assistant 💬
 A smart assistant web application that allows users to ask questions via **voice or text** and get informative answers powered by **Wikipedia**. This project uses **Flask** for the web interface, **Vosk** for voice recognition, and **Wikipedia API** for fetching answers.
 
 ## 🔧 Features
